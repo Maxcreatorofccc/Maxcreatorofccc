@@ -1,0 +1,4 @@
+roblox-license-server-3
+main
+npm install
+node server.js
